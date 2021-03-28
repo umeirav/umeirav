@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @umeirav
 - 👀 I’m interested in Science and Psychology. I'm also a big foodie! I love cooking, painitng and going on walks:)
-- 🌱 I’m currently learning coding and computer programming for pscyhological research purposes and I've realized that it's not 
-easy but also kind of fun when you get it right!
+- 🌱 I’m currently learning coding and computer programming for psychological research purposes and I've realized that it's not 
+easy but also kind of fun!
 - 💞️ I’m looking to collaborate on anything that could help create a reproducible research report!
 - 📫 Best to reach me at uvijendr@uwaterloo.ca! Excited to collaborate!
 
